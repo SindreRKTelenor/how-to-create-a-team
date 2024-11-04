@@ -95,13 +95,22 @@ test
 layout: quote
 ---
 
-# What is a team?
+# Hva er et team?
 
 ---
+layout: section
 level: 2
 ---
 
-test
+Kjedlige definisjon:
+- 3 eller flere mennekser som jobber sammen mot et samlet mål.
+
+Mer spennende definisjon:
+- En gruppe mennesker som er avhengige av hverandre for å oppnå et felles mål.
+
+::right::
+
+- En samling av resuser og kompentase
 
 ---
 layout: section
@@ -113,11 +122,11 @@ transition: slide-up
 ::right::
 
 <ul>
-<li>tryghet</li>
-<li>tilit</li>
-<li>psykologisk trygget</li>
-<li>gøy</li>
-<li>kunnskap</li>
+<li>Tilit</li>
+<li>Psykologisk trygget</li>
+<li>Tilbakemelding</li>
+<li>Gøy</li>
+<li>Kunnskap</li>
 </ul>
 
 ---
@@ -137,6 +146,10 @@ level: 2
 
 # How to achieve a good team
 
-::right::
+Kontinueli prossess.
+
+---
+
+# Why good feedback within the team is valuable
 
 ---
