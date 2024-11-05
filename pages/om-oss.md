@@ -68,14 +68,12 @@ level: 2
         <h3>Lagførerrolle i Cyberforsvarets mobile team i 3 år.</h3>
         <h3>Veileder og underviser ved Cyberingeniørskolen. </h3>
     </div>
-    <div class="flex flex-col gap-2">
-        <div>
-            <img border="rounded" src="https://preview.sdl.no/v2/dam/mArDYumXm-kt5zduL58YzQ/m4H_M_WKC2Q?v=1718702164178" style="height: 200px">
-            <img border="rounded" src="https://preview.sdl.no/v2/dam/7JMBTscrY4_c1-y2enafQw/YFmS3LIfd7s?v=1725437199904" style="height: 200px">
-            <img>
+    <div>
+        <div class="flex flex-col gap-2">
+            <img border="rounded" src="https://preview.sdl.no/v2/dam/mArDYumXm-kt5zduL58YzQ/m4H_M_WKC2Q?v=1718702164178" style="height: 180px">
+            <img border="rounded" src="https://preview.sdl.no/v2/dam/7JMBTscrY4_c1-y2enafQw/YFmS3LIfd7s?v=1725437199904" style="height: 190px">
         </div>
-        <div>
-            <img>
-        </div>
+        <p>Foto: Daniel Nordby /Forsvaret</p>
     </div>
+
 </div>
