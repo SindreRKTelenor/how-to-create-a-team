@@ -20,7 +20,7 @@ transition: slide-up
 level: 2
 ---
 
-# Tilit
+# Tillit
 
 ---
 transition: slide-up
@@ -30,7 +30,29 @@ level: 2
 # Psykologisk trygget
 ---
 level: 2
+layout: two-cols-header
 ---
 
 # Tilbakemelding
-
+::left::
+<h2 v-click>As is</h2>
+<ul>
+    <v-clicks>
+        <li>Retrospective</li>
+        <li>Kort varighet</li>
+        <li>Lite dybde</li>
+        <li></li>
+        <li></li>
+    </v-clicks> 
+</ul>
+::right::
+<h2 v-click>Extension pack</h2>
+<ul>
+    <v-clicks>
+        <li>Tar den tiden det tar</li>
+        <li>Finne roten</li>
+        <li>Løs opp klinsjer</li>
+        <li></li>
+        <li></li>
+    </v-clicks> 
+</ul>
