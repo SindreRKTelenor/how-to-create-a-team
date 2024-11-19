@@ -34,6 +34,8 @@ layout: two-cols-header
 ---
 
 # Tilbakemelding
+
+Dette skal vi gå innom senere i presentasjonen
 ::left::
 <h2 v-click>As is</h2>
 <ul>
