@@ -37,3 +37,15 @@ src: ./pages/hvorfor-gode-tilbakemeldinger-er-viktig.md
 ---
 src: ./pages/hvordan-oppnå-et-godt-fungerende-team.md
 ---
+
+---
+layout: fact
+---
+
+# Spørsmål?
+
+---
+layout: fact
+---
+
+# Takk for oss!

@@ -62,26 +62,29 @@ level: 2
 
 ---
 level: 2
-layout: two-cols-header
+layout: items
+cols: 2
 ---
 
 # Tilbakemelding
-::left::
-<h2 v-click>As is</h2>
+
+::items::
+
+<div v-click>
+<h2>As is</h2>
 <ul>
-    <v-clicks>
         <li>Retrospective</li>
         <li>Health checks</li>
         <li>Kort varighet</li>
         <li>Lite dybde</li>
-    </v-clicks> 
 </ul>
-::right::
-<h2 v-click>Extension pack</h2>
+</div>
+
+<div v-click>
+<h2>Extension pack</h2>
 <ul>
-    <v-clicks>
         <li>Ta dere tid. La det ta den tiden det tar.</li>
         <li>Finne roten, ikke bare erkjenne symptomene.</li>
         <li>Løs gnisningene før de vokser.</li>
-    </v-clicks> 
 </ul>
+</div>
