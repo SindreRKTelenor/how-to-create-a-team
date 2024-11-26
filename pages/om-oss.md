@@ -45,11 +45,11 @@ level: 2
     </div>
     <div class="flex flex-col gap-2">
         <div class="flex gap-10">
-            <img border="rounded" src="../public/IMG_4987.JPEG" style="height: 200px">
-            <img border="rounded" src="../public/IMG_6172.JPEG" style="height: 200px">
+            <img border="rounded" src="../public/IMG_4987.png" style="height: 200px">
+            <img border="rounded" src="../public/IMG_6172.png" style="height: 200px">
         </div>
         <div>
-            <img border="rounded" src="../public/IMG_6316.JPEG" style="height: 200px">
+            <img border="rounded" src="../public/IMG_6316.png" style="height: 200px">
         </div>
     </div>
 </div>
