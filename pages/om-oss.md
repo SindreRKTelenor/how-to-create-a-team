@@ -67,6 +67,7 @@ level: 2
         <h3>Befalsskole og offiserskurs i Forsvaret. </h3>
         <h3>Lagførerrolle i Cyberforsvarets mobile team i 3 år.</h3>
         <h3>Veileder og underviser ved Cyberingeniørskolen. </h3>
+        <h3>Har siden dyrket enkeltmannsferdigheter. </h3>
     </div>
     <div>
         <div class="flex flex-col gap-2">
