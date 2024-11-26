@@ -27,8 +27,8 @@ level: 2
 - Tillit til at man er best egnet til den rollen man er satt i 
 - Tillit til at påstander som gis er korrekt basert på det datagrunnlaget personen har. 
 - Tillit under ansvar
-- Tillit til at kollegaer sier ifra 
-- 
+- Tillit til at kollegaer sier ifra
+
 </v-clicks>
 
 
@@ -57,7 +57,7 @@ level: 2
 - Trygg på hvor man har team-medlemmene 
 - Medmenneskelig trygghet. Imøtekommende.
 - Trivsel i teamet
-- 
+
 </v-clicks>
 
 ---

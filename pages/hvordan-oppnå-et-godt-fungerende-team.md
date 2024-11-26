@@ -58,3 +58,7 @@ layout: two-cols-header
 
 </v-clicks>
 
+<!-- 
+Husk å nevne at dette er en kontinuerlig prosess som må gjøres hver gang det skjer utskiftninger i teamet.
+ -->
+

@@ -37,10 +37,10 @@ level: 2
         Software Engineer
         </h3>
         <h3>
-        Befal i Innsatstykren Ida og Lyra i Heimevernet Finnmark, var det i 1.5 år. Nå er jeg enkeltmann i samme innsatstykre.
+        Befal i Innsatstykren Ida og Lyra i Heimevernet Finnmark
         </h3>
         <h3>
-        Jobbet som team lead, tech lead i 1.5 år før jeg kom til Telenor for 1 år siden
+        Jobbet som team lead, tech lead i 1.5 år før jeg kom til Telenor
         </h3>
     </div>
     <div class="flex flex-col gap-2">

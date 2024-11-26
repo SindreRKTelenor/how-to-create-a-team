@@ -19,7 +19,6 @@ Hvis du gir gode tilbakemeldinger til dine kollegaer, vil de føle seg trygge. D
 Men hva er egentlig en god tilbakemelding?
 En god tilbake melding er både positiv og konstruktiv. Den er skal komme for at en person skal kunne forbedre seg.
 
-Så hvordan kan man da gi og ta imot en tilbakemelding?
 </div>
 
 </div>
