@@ -82,8 +82,8 @@ Dette skal vi gå innom senere i presentasjonen
 <h2 v-click>Extension pack</h2>
 <ul>
     <v-clicks>
-        <li>Ta den tiden det tar</li>
-        <li>Finne roten</li>
-        <li>Løs opp klinsjer</li>
+        <li>Ta dere tid. La det ta den tiden det tar.</li>
+        <li>Finne roten, ikke bare erkjenne symptomene.</li>
+        <li>Løs gnisningene før de vokser.</li>
     </v-clicks> 
 </ul>
