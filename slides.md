@@ -31,9 +31,9 @@ src: ./pages/viktige-punkter.md
 ---
 
 ---
-src: ./pages/hvordan-oppnå-et-godt-fungerende-team.md
+src: ./pages/hvorfor-gode-tilbakemeldinger-er-viktig.md
 ---
 
 ---
-src: ./pages/hvorfor-gode-tilbakemeldinger-er-viktig.md
+src: ./pages/hvordan-oppnå-et-godt-fungerende-team.md
 ---

@@ -28,22 +28,21 @@ level: 2
 - Tillit til at påstander som gis er korrekt basert på det datagrunnlaget personen har. 
 - Tillit under ansvar
 - Tillit til at kollegaer sier ifra 
+- 
 </v-clicks>
 
 
 <v-click>
 
-### Konsekvenser: 
+### dette fører til: 
 
 </v-click>
 <v-clicks>
 
 - Teamets tillit til personen fører til personens trygghet i teamet.
 - Tillit i teamet gjør at teamet løser problemer mer effektivt. 
+
 </v-clicks>
-
-
-
 
 ---
 transition: slide-up
@@ -52,13 +51,14 @@ level: 2
 
 # Psykologisk trygget
 
+<v-clicks>
 
-
-Man føler seg trygg til å prøve, feile og si ifra 
-Trygg på hvor man har team-medlemmene 
-Medmenneskelig trygghet. Imøtekommende.
-Trivsel i teamet
-
+- Man føler seg trygg til å prøve, feile og si ifra 
+- Trygg på hvor man har team-medlemmene 
+- Medmenneskelig trygghet. Imøtekommende.
+- Trivsel i teamet
+- 
+</v-clicks>
 
 ---
 level: 2
@@ -66,8 +66,6 @@ layout: two-cols-header
 ---
 
 # Tilbakemelding
-
-Dette skal vi gå innom senere i presentasjonen
 ::left::
 <h2 v-click>As is</h2>
 <ul>
