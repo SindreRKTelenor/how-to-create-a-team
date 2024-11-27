@@ -19,7 +19,7 @@ cols: 2
 
 <div>
 
-### Hva et team  bør inneholde
+### Essensen av et team:
 
 - En samling av ressurser og kompetanse
 - En samling av individer

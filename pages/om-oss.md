@@ -40,7 +40,7 @@ level: 2
         Befal i Innsatstykren Ida og Lyra i Heimevernet Finnmark
         </h3>
         <h3>
-        Jobbet som team lead, tech lead i 1.5 år før jeg kom til Telenor
+        Jobbet som team lead, tech lead før jeg kom til Telenor
         </h3>
     </div>
     <div class="flex flex-col gap-2">
