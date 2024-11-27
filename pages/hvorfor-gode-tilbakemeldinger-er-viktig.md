@@ -7,7 +7,7 @@ transition: slide-up
 <div class="flex">
 <div style="width: 50%">
 <ul>
-<li>Psykologisk trygget</li>
+<li>Psykologisk trygghet</li>
 <li>Tettsamarbeid</li>
 <li>Velfungerende team</li>
 </ul>

@@ -49,7 +49,7 @@ transition: slide-up
 level: 2
 ---
 
-# Psykologisk trygget
+# Psykologisk trygghet
 
 <v-clicks>
 
