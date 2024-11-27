@@ -11,8 +11,8 @@ transition: slide-up
 <li>Tillit</li>
 <li>Psykologisk trygghet</li>
 <li>Tilbakemelding</li>
-<li>Gøy</li>
-<li>Kunnskap</li>
+<li v-click.hide="1">Gøy</li>
+<li v-click.hide="1">Kunnskap</li>
 </ul>
 
 ---
@@ -25,7 +25,7 @@ level: 2
 <v-clicks>
 
 - Tillit til at man er best egnet til den rollen man er satt i 
-- Tillit til at påstander som gis er korrekt basert på det datagrunnlaget personen har. 
+- Tillit til at påstander gis med et kunnskapsgrunnlag
 - Tillit under ansvar
 - Tillit til at kollegaer sier ifra
 
@@ -86,5 +86,6 @@ cols: 2
         <li>Ta dere tid. La det ta den tiden det tar.</li>
         <li>Finne roten, ikke bare erkjenne symptomene.</li>
         <li>Løs gnisningene før de vokser.</li>
+        <li>Dropp verktøy og gjør det fysisk</li>
 </ul>
 </div>

@@ -24,6 +24,6 @@ cols: 2
 - En samling av ressurser og kompetanse
 - En samling av individer
 - Under kontinuerlig endring
-- Flat struktur
+- Likeverdige team-medlemmer
 
 </div>
