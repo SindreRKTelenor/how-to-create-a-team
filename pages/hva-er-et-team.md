@@ -21,7 +21,7 @@ cols: 2
 
 ### Hva et team  bør inneholde
 
-- En samling av resuser og kompentase
+- En samling av ressurser og kompetanse
 - En samling av individer
 - Under kontinuerlig endring
 - Flat struktur

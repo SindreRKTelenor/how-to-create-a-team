@@ -8,8 +8,8 @@ transition: slide-up
 ::right::
 
 <ul>
-<li>Tilit</li>
-<li>Psykologisk trygget</li>
+<li>Tillit</li>
+<li>Psykologisk trygghet</li>
 <li>Tilbakemelding</li>
 <li>Gøy</li>
 <li>Kunnskap</li>
