@@ -4,7 +4,7 @@ theme: bricks
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Hvordan bygge et team
+title: Hvordan bygge team
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -12,7 +12,7 @@ class: text-center
 transition: slide-left
 ---
 
-# Hvordan bygge et team som funker
+# Hvordan bygge team som funker
 
 ---
 src: ./pages/agenda.md
