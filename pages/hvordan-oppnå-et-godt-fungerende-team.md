@@ -28,8 +28,9 @@ v-motion
 :click-4-5="{ x: 0, y: -200 }"
 >
 <h3>Fase 1</h3>
-<p>Finne sin rolle</p>
-<p>uoffisielle og offisielle </p>
+<p>Passer man inn</p>
+<p>Vil man være en del av teamet</p>
+<p>Aksept fra de andre</p>
 <p>Gå inn som deg selv</p>
 </div>
 
@@ -38,6 +39,7 @@ v-motion
 :click-5-6="{ x: -300, y: -200 }"
 >
 <h3>Fase 2</h3>
+<p>Finne sine roller</p>
 <p>Sette rammer</p>
 <p>Sette målsettinger</p>
 </div>
