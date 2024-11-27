@@ -61,3 +61,14 @@ Derfor ønsker vi å trekke frem en annen modell som belyser mye av det samme, m
 Denne modellen har et større fokus på at det å bygge team er en syklus som gjør at man kan gå tilbake til tidligere steg når teamet møter endringer.  
  -->
 
+---
+layout: default
+---
+# Kort oppsummert 
+
+<v-clicks>
+
+- Dette er ingen one and done
+- Prøv å utvide retrospective og health check
+- Test ut verktøyene vi har gitt dere idag
+</v-clicks>
