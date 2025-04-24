@@ -4,7 +4,9 @@ theme: bricks
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Hvordan bygge team
+title: "Teamdynamikk under press: Inspirasjon fra Forsvaret"
+
+
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -12,7 +14,7 @@ class: text-center
 transition: slide-left
 ---
 
-# Hvordan bygge team som funker
+# Teamdynamikk under press: Inspirasjon fra Forsvaret
 
 ---
 src: ./pages/agenda.md
